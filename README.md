@@ -3,7 +3,7 @@
 ### **About me:**
 
 - 💼 I currently develop personal projects and study.
-- 👨‍💻 I study technology since 2018.
+- 👨‍💻 I study technology since 2017.
 - 🎓 Graduated in Bachelor's degree in information systems and computer technician.
 - 🇧🇷 Live in Brazil.
 
