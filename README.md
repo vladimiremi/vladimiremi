@@ -11,9 +11,9 @@
 
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vladimiremi) 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimirpiaui) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir.costa) 
 [![Gmail](http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vladimirpiaui11@gmail.com)
-[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vladimirpiaui)
+[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vladimir.costa)
 [![Telegram](http://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/+5586981266700)
 
 ### Technologies 
@@ -40,18 +40,4 @@
 <img height="25" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
 
-<p align="center">
-  <a href="https://github.com/vladimiremi/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimiremi&layout=compact&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/vladimiremi/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=vladimiremi&show_icons=true&theme=dracula"
-    />
-  </a>
-</p>
+
